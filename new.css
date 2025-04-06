@@ -1,0 +1,18 @@
+.nav-wrapper{
+    display: flex;
+    justify-content: center;
+    margin-left: 2px;
+    margin-top: 00px;
+
+    margin-right: 2px;
+}
+
+.item{
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 1opx;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+
+}
